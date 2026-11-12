@@ -1,0 +1,11 @@
+{
+  "items": "ambient_expanded:red_egg",
+  "item_use": "Can be thrown to spawn a red cluckshroom",
+  "how_to_find": "Drops from red cluckshrooms",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ambient_expanded"
+    }
+  ]
+}

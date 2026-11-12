@@ -1,0 +1,11 @@
+{
+    "items": "trailsandtalesplus:smithing_shelf",
+    "item_use": "Used to store up to 6 smithing templates",
+    "how_to_find": "Crafted 6 planks, 2 wooden slabs and 1 smithing table",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "trailsandtalesplus"
+        }
+    ]
+}

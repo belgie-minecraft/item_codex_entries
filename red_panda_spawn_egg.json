@@ -1,0 +1,19 @@
+{
+    "title": "Red Panda",
+    "items": "ambient_expanded:red_panda_spawn_egg",
+    "item_use": "Passive mob that will scare zombie like mobs away",
+    "how_to_find": "Spawns in jungle biomes",
+    "entity_placement": {
+        "scale": 40,
+        "y": {
+            "positive_value": false,
+            "position": 15
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

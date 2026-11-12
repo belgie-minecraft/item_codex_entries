@@ -1,0 +1,11 @@
+{
+    "items": "mounts_of_mayhem_plus:leather_nautilus_armor",
+    "item_use": "Armor for the Nautilus mob that can be dyed or trimmed",
+    "how_to_find": "Crafted from 8 leather",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mounts_of_mayhem_plus"
+        }
+    ]
+}

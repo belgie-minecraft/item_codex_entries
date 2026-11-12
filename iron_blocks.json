@@ -1,0 +1,12 @@
+{
+    "title": "Iron Blocks",
+    "items": "#item_codex:iron_blocks",
+    "item_use": "decorative building set made from iron, comes in Chiseled, Grate and Cut",
+    "how_to_find": "Normal block crafting recipes but with iron resources instead, can also be crafted in stonecutters",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

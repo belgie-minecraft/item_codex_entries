@@ -1,0 +1,11 @@
+{
+    "items": "#item_codex:pale_berries",
+    "item_use": "Food Source, can also be placed down as a bush. The bush will grow dawn berries at day and dusk at night",
+    "how_to_find": "Spawn in the pale garden as bushes",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

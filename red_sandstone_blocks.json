@@ -1,0 +1,12 @@
+{
+    "title": "Red Sandstone Blocks",
+    "items": "#item_codex:red_sandstone_blocks",
+    "item_use": "decorative building set made from red sandstone, comes in Bricks, Tiles, and Cracked Bricks",
+    "how_to_find": "Normal block crafting recipes but with red sandstone instead",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

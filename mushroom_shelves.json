@@ -1,0 +1,11 @@
+{
+    "items": "#item_codex:mushroom_shelves",
+    "item_use": "Decorative block that can be placed on the side of blocks",
+    "how_to_find": "Spawns in birch forest biomes",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

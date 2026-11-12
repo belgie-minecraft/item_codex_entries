@@ -1,0 +1,11 @@
+{
+    "items": "ambient_expanded:short_cactus",
+    "item_use": "Decorative flower",
+    "how_to_find": "Spawns in desert biomes",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

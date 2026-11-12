@@ -1,0 +1,19 @@
+{
+    "title": "Hummingbird",
+    "items": "ambient_expanded:hummingbird_spawn_egg",
+    "item_use": "Passive mob that will pollinate flowers having a chance to duplicate them",
+    "how_to_find": "Spawns in birch forest biomes",
+    "entity_placement": {
+        "scale": 50,
+        "y": {
+            "positive_value": false,
+            "position": 12
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

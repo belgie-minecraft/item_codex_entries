@@ -1,0 +1,12 @@
+{
+    "title": "Spout Blocks",
+    "items": "#item_codex:spouts",
+    "item_use": "can be stacked up on top of each other to make pillar like blocks or can be placed 1 - 3 to create ambient gas particles",
+    "how_to_find": "Crafted from 7 sulfur or cinnabar and 1 potent sulfur",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chaoscubedplus"
+        }
+    ]
+}

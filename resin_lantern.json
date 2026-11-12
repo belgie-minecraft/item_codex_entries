@@ -1,0 +1,11 @@
+{
+    "items": "creaking_expanded:resin_lantern",
+    "item_use": "Lantern block that will turn on at night and off at day",
+    "how_to_find": "Crafted 8 iron nuggets and 1 resin torch",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

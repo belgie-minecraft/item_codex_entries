@@ -1,0 +1,11 @@
+{
+    "items": "bound_wilderness:straw_pile",
+    "item_use": "Decorative layer that can be broken with silk touch or will drop wheat",
+    "how_to_find": "Has a chance to be placed when exiting a straw bed",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "items": "creaking_expanded:spriteling_seed",
+    "item_use": "decorative egg but can also hatch into a spriteling",
+    "how_to_find": "Feeding ancient sprites",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

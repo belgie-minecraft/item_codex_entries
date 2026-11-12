@@ -1,0 +1,19 @@
+{
+    "title": "Stray Horse",
+    "items": "mounts_of_mayhem_plus:stray_horse_spawn_egg",
+    "item_use": "can be ridden and runs faster on mud blocks",
+    "how_to_find": "Spawns in Skeleton horse traps during thunderstorms",
+    "entity_placement": {
+        "scale": 23,
+        "y": {
+            "positive_value": false,
+            "position": 3
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mounts_of_mayhem_plus"
+        }
+    ]
+}

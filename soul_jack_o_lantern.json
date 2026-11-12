@@ -1,0 +1,11 @@
+{
+  "items": "creaking_expanded:soul_jack_o_lantern",
+  "item_use": "Carved pumpkin with the soul glow",
+  "how_to_find": "Crafted from 1 carved pumpkin and 1 soul torch",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "creaking_expanded"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "items": "trailsandtalesplus:lumeberry",
+    "item_use": "Decorative vine that can also be eaten",
+    "how_to_find": "Sniffers dig them up",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "trailsandtalesplus"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Autumn Pumpkins",
+    "items": "#item_codex:bound_pumpkins",
+    "item_use": "3 new pumpkin blocks that can be carved or turned into jack o'lanterns, each one has a unique face carved",
+    "how_to_find": "Found in dappled forests or bonemealing orange moss has a chance to spawn them",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

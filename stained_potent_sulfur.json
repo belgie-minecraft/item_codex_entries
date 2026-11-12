@@ -1,0 +1,11 @@
+{
+    "items": "chaoscubedplus:dyed_potent_sulfur",
+    "item_use": "works just like potent sulfur but can have dye clicked on it to change the particle colours",
+    "how_to_find": "Crafted from 4 potent sulfur and 1 dye",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chaoscubedplus"
+        }
+    ]
+}

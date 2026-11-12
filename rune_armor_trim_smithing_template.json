@@ -1,0 +1,12 @@
+{
+    "items": "trailsandtalesplus:rune_armor_trim_smithing_template",
+    "item_use": "Used to trim armor",
+    "how_to_find": "Found in ruined portal chests",
+    "trim_pattern": "trailsandtalesplus:rune",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "trailsandtalesplus"
+        }
+    ]
+}

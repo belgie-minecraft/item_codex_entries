@@ -1,0 +1,12 @@
+{
+    "title": "Netherite Lanterns",
+    "items": "#item_codex:netherite_lanterns",
+    "item_use": "Normal lantern but with the netherite texture on the outside",
+    "how_to_find": "Crafted from netherite nuggets and the torch of the type",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "items": "chaoscubedplus:potent_magma",
+    "item_use": "when placed with 1-4 blocks of lava above and either magma or lava below it will create a lava geyser, entities inside will be shot up and set on fire",
+    "how_to_find": "Crafted from 4 magma blocks and 1 bucket of lava",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chaoscubedplus"
+        }
+    ]
+}

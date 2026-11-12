@@ -1,0 +1,11 @@
+{
+    "items": "ambient_expanded:mushrooms",
+    "item_use": "Decorative flower that can be placed up to 4 in 1 block",
+    "how_to_find": "Spawns in mushroom field biome",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

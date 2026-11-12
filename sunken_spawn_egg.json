@@ -1,0 +1,19 @@
+{
+    "title": "Sunken",
+    "items": "mounts_of_mayhem_plus:sunken_spawn_egg",
+    "item_use": "attacks with a prismarine arrows",
+    "how_to_find": "Spawns in warm ocean biomes or ridding coral zombie nautilus",
+    "entity_placement": {
+        "scale": 20,
+        "y": {
+            "positive_value": false,
+            "position": 8
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mounts_of_mayhem_plus"
+        }
+    ]
+}

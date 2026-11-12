@@ -1,0 +1,11 @@
+{
+    "items": "ambient_expanded:short_mycelium_grass",
+    "item_use": "Decorative flower",
+    "how_to_find": "Spawns in mushroom fields",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

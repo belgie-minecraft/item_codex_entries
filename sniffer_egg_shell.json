@@ -1,0 +1,11 @@
+{
+    "items": "trailsandtalesplus:sniffer_egg_shell",
+    "item_use": "Craft a hollowed sniffer egg or click on blocks to convert them in to their suspicious versions",
+    "how_to_find": "Found in digsite suspicious blocks",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "trailsandtalesplus"
+        }
+    ]
+}

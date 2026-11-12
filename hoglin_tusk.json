@@ -1,0 +1,11 @@
+{
+    "items": "chase_the_skies_plus:hoglin_husk",
+    "item_use": "will play a ghast cry sound unless you are riding a baby ghast and then it will shoot a fireball in the direction you are looking",
+    "how_to_find": "Rare drop from hoglins",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chase_the_skies_plus"
+        }
+    ]
+}

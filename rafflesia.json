@@ -1,0 +1,11 @@
+{
+    "items": "ambient_expanded:rafflesia",
+    "item_use": "Decorative flower that will play ambient fly particles",
+    "how_to_find": "Spawns in jungle biomes",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

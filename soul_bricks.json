@@ -1,0 +1,11 @@
+{
+    "items": "#item_codex:soul_bricks",
+    "item_use": "Decorative building block, will also boost players speed with the soul speed enchantment. Can be crafted into slabs, stairs and walls",
+    "how_to_find": "Crafted from 4 soul soil",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chase_the_skies_plus"
+        }
+    ]
+}

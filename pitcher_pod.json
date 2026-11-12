@@ -1,0 +1,11 @@
+{
+    "items": "trailsandtalesplus:pitcher_pod",
+    "item_use": "Block you can place most vegetation inside by right clicking, It can display up to 4 blocks",
+    "how_to_find": "Crafted from 3 pitcher slabs and 1 dirt block",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "trailsandtalesplus"
+        }
+    ]
+}

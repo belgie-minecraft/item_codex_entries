@@ -1,0 +1,11 @@
+{
+    "items": "trailsandtalesplus:sniffle_egg",
+    "item_use": "decorative egg but can also hatch into a sniffle. can be dyed by clicking on with dye, crouching will dye the secondary part",
+    "how_to_find": "Found digsite structures",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "trailsandtalesplus"
+        }
+    ]
+}

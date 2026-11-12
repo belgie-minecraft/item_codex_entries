@@ -1,0 +1,11 @@
+{
+    "items": "creaking_expanded:pale_pumpkin_pie",
+    "item_use": "Food Source",
+    "how_to_find": "Crafted 1 resin clump, 1 egg, 1 sugar and 1 pale pumpkin",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

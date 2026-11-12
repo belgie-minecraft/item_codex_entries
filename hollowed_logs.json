@@ -1,0 +1,12 @@
+{
+    "title": "Hollowed Logs",
+    "items": "#item_codex:hollowed_logs",
+    "item_use": "Normal logs but with the middle carved out, players can crawl into this space",
+    "how_to_find": "Crafted from 4 logs of the type you want",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

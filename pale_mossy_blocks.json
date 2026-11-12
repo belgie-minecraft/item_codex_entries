@@ -1,0 +1,12 @@
+{
+    "title": "Pale Mossy Blocks",
+    "items": "#item_codex:pale_mossy_blocks",
+    "item_use": "decorative building set made from pale moss, comes in Bricks and Cobblestone",
+    "how_to_find": "Crafted either cobblestone and pale moss or stone bricks and pale moss",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

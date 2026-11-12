@@ -1,0 +1,11 @@
+{
+    "items": "#item_codex:stable_eyeshrooms",
+    "item_use": "Decorative mushroom that wont open or close",
+    "how_to_find": "Clicking resin brick on either open or closed eyeshrooms",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

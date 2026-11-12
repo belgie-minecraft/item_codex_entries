@@ -1,0 +1,12 @@
+{
+    "title": "Red Moss",
+    "items": "#item_codex:red_moss",
+    "item_use": "A new moss block that can be bonemealed to spread, will also tint grass placed on top",
+    "how_to_find": "Crafted 2 moss blocks & 2 red shrubs",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

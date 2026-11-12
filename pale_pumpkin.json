@@ -1,0 +1,11 @@
+{
+    "items": "creaking_expanded:pale_pumpkin",
+    "item_use": "decorative pumpkin, can be used in recipes like pale pumpkin pie and can be sheared to carve it",
+    "how_to_find": "Feeding ancient sprites or spawns in patches in pale gardens",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

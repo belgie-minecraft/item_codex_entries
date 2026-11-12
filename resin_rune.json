@@ -1,0 +1,11 @@
+{
+    "items": "creaking_expanded:resin_rune",
+    "item_use": "can be clicked on creaking golems to make them immune to damage",
+    "how_to_find": "Feeding ancient sprites",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

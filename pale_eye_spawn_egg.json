@@ -1,0 +1,19 @@
+{
+    "title": "Pale Eye",
+    "items": "creaking_expanded:pale_eye_spawn_egg",
+    "item_use": "Shoots a attack beam at players that are within its attack range but only at night time, at day it will close and blend into pale oak logs",
+    "how_to_find": "Has a chance to Spawn within the ancient sprite podium structure",
+    "entity_placement": {
+        "scale": 30,
+        "y": {
+            "positive_value": false,
+            "position": 16
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

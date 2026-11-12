@@ -1,0 +1,12 @@
+{
+    "title": "Sniffle",
+    "items": "trailsandtalesplus:sniffle_spawn_egg",
+    "item_use": "will dig up gem/ingot items when in the overworld and has stone like blocks under or will dig up nether gem/ingot items when in the nether and has netherrack like blocks under them",
+    "how_to_find": "Spawns from Sniffle eggs found in digsite structures",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "trailsandtalesplus"
+        }
+    ]
+}

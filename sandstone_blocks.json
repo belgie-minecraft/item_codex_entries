@@ -1,0 +1,12 @@
+{
+    "title": "Sandstone Blocks",
+    "items": "#item_codex:sandstone_blocks",
+    "item_use": "decorative building set made from sandstone, comes in Bricks, Tiles, and Cracked Bricks",
+    "how_to_find": "Normal block crafting recipes but with sandstone instead",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

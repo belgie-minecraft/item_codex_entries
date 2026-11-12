@@ -1,0 +1,12 @@
+{
+    "title": "Petals",
+    "items": "#item_codex:petals",
+    "item_use": "Decorative flower that can be placed up to 4 in 1 block",
+    "how_to_find": "Crafting pink petals with the colour of dye you want",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "trailsandtalesplus"
+        }
+    ]
+}

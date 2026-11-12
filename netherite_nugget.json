@@ -1,0 +1,11 @@
+{
+    "items": "copper_age_plus:netherite_nugget",
+    "item_use": "Used within cast netherite block recipes",
+    "how_to_find": "Crafted from 1 netherite ingot",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

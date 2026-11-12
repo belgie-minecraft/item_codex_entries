@@ -1,0 +1,12 @@
+{
+    "title": "Parrot Eggs",
+    "items": "#item_codex:parrot_eggs",
+    "item_use": "Decorative egg block but can also hatch into parrots of the egg colour when placed on any leaves",
+    "how_to_find": "Breeding Parrots will drop a parrot egg",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mini_madness"
+        }
+    ]
+}

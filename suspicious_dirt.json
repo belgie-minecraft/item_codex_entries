@@ -1,0 +1,11 @@
+{
+    "items": "trailsandtalesplus:suspicious_dirt",
+    "item_use": "Can be brushed to get unique loot",
+    "how_to_find": "Clicking a sniffle / sniffer egg shell on dirt or found in digsite structures",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "trailsandtalesplus"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Sulfur Froglights",
+    "items": "#item_codex:sulfur_froglights",
+    "item_use": "light blocks",
+    "how_to_find": "frogs killing baby sulfur cubes: \nwarm = azure \ncold = vermilion \ntemperate = canary",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chaoscubedplus"
+        }
+    ]
+}

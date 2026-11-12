@@ -1,0 +1,11 @@
+{
+    "items": "mounts_of_mayhem_plus:nautilus_armor_stand",
+    "item_use": "Used to display Nautilus armor",
+    "how_to_find": "Crafted from 1 smooth stone slab and 4 sticks",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mounts_of_mayhem_plus"
+        }
+    ]
+}

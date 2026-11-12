@@ -1,0 +1,11 @@
+{
+  "items": "creaking_expanded:pale_pumpkin_seeds",
+  "item_use": "Grows into pale pumpkins",
+  "how_to_find": "Shearing pale pumpkins",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "creaking_expanded"
+    }
+  ]
+}

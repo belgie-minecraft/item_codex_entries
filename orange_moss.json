@@ -1,0 +1,12 @@
+{
+    "title": "Orange Moss",
+    "items": "#item_codex:orange_moss",
+    "item_use": "A new moss block that can be bonemealed to spread, will also tint grass placed on top",
+    "how_to_find": "Crafted 2 moss blocks & 2 orange shrubs or spawns in dappled forests",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

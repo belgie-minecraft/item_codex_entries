@@ -1,0 +1,11 @@
+{
+    "items": "#item_codex:moss_veins",
+    "item_use": "Decorative block that works like glow lichen",
+    "how_to_find": "Crafted from 4 moss or pale moss block",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

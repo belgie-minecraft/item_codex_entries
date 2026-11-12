@@ -1,0 +1,19 @@
+{
+    "title": "Pale Creeper",
+    "items": "creaking_expanded:pale_creeper_spawn_egg",
+    "item_use": "When exploding the pale creeper will convert blocks around into the pale form (example: leaves -> pale leaves)",
+    "how_to_find": "Spawns at night in the pale garden",
+    "entity_placement": {
+        "scale": 20,
+        "y": {
+            "positive_value": false,
+            "position": 20
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

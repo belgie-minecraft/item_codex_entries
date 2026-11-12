@@ -1,0 +1,11 @@
+{
+    "items": "creaking_expanded:resin_torch",
+    "item_use": "Torch block that will turn on at night and off at day",
+    "how_to_find": "Crafted 1 coal, 1 stick and 1 resin clump",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

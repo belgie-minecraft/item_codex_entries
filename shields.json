@@ -1,0 +1,12 @@
+{
+    "title": "Shields",
+    "items": "#item_codex:shields",
+    "item_use": "New Shield items that block more damage the higher tier they are with wood blocking 10% and netherite blocking 100%",
+    "how_to_find": "Crafted with 5 of the material and 1 plank",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mounts_of_mayhem_plus"
+        }
+    ]
+}

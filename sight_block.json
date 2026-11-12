@@ -1,0 +1,11 @@
+{
+    "items": "creaking_expanded:sight_block",
+    "item_use": "will output a redstone signal when a player is looking at the block, can be inverted by clicking on it",
+    "how_to_find": "Crafted 6 Resin bricks, 2 deepslate and 1 creaking heart",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

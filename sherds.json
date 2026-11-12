@@ -1,0 +1,12 @@
+{
+  "title": "Trails and Tales Plus Sherds",
+  "items": "#item_codex:sherds",
+  "item_use": "Used to decorate pots",
+  "how_to_find": "Found in: \n- Digsites: Wall, Spores, Piglin, Tuff, Cube\n- Other suspicious blocks: Silent, Puzzle, Plain, Cherry",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "trailsandtalesplus"
+    }
+  ]
+}

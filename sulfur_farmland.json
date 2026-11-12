@@ -1,0 +1,11 @@
+{
+    "items": "chaoscubedplus:sulfur_farmland",
+    "item_use": "Grows crops planted on the block faster",
+    "how_to_find": "Click crystallized sulfur on farmland",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chaoscubedplus"
+        }
+    ]
+}

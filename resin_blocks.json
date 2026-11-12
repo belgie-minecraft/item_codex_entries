@@ -1,0 +1,12 @@
+{
+    "title": "Resin Blocks",
+    "items": "#item_codex:resin_blocks",
+    "item_use": "decorative building set made from resin, comes in Slabs and Stairs",
+    "how_to_find": "Normal block crafting recipes but with resin blocks instead",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

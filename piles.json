@@ -1,0 +1,11 @@
+{
+    "items": "#item_codex:piles",
+    "item_use": "Decorative layer block that can be stacked up to 4 times to make a full block",
+    "how_to_find": "Crafted from 3 of the resource type",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "trailsandtalesplus"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "items": "bound_wilderness:shelf_mushroom_block",
+  "item_use": "Decorative block that makes mobs on top bounce",
+  "how_to_find": "Crafted from 9 shelf mushrooms",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "bound_wilderness"
+    }
+  ]
+}

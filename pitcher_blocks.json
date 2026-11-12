@@ -1,0 +1,11 @@
+{
+    "items": "#item_codex:pitcher",
+    "item_use": "decorative block with a slab",
+    "how_to_find": "Crafted from 8 bamboo planks and 1 pitcher pod",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "trailsandtalesplus"
+        }
+    ]
+}

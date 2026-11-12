@@ -1,0 +1,11 @@
+{
+    "items": "chase_the_skies_plus:locator_tag",
+    "item_use": "can be dyed in a crafting table like leather armor and can be clicked on any mob to give them a locator waypoint",
+    "how_to_find": "Crafted from 1 name tag and 1 compass",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chase_the_skies_plus"
+        }
+    ]
+}

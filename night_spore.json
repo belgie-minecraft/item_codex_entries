@@ -1,0 +1,11 @@
+{
+    "items": "creaking_expanded:night_spore",
+    "item_use": "decorative flower that can be placed on or under blocks, when under blocks it will play particles if there is a pale moss or pale leaves block under and when placed under a block it will grant the foggy vision effect in a radius",
+    "how_to_find": "Spawns on trees in pale gardens",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

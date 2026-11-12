@@ -1,0 +1,11 @@
+{
+    "items": "chase_the_skies_plus:soul_swirls",
+    "item_use": "Decorative flower",
+    "how_to_find": "Spawns in soul sand valleys",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chase_the_skies_plus"
+        }
+    ]
+}

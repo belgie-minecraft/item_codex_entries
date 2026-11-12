@@ -1,0 +1,11 @@
+{
+    "items": "chaoscubedplus:magma_cube_bucket",
+    "item_use": "Transport for magma cubes",
+    "how_to_find": "Click a bucket on a magma cube that is size 2",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chaoscubedplus"
+        }
+    ]
+}
