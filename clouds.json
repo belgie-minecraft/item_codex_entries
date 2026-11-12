@@ -1,0 +1,12 @@
+{
+    "title": "Clouds",
+    "items": "#item_codex:clouds",
+    "item_use": "can be placed anywhere within the world without a supporting block",
+    "how_to_find": "Cloud Structures or shearing gale mob",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chase_the_skies_plus"
+        }
+    ]
+}

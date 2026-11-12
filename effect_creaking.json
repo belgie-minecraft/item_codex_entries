@@ -1,0 +1,18 @@
+{
+    "title": "Creaking Effect",
+    "items": "#item_codex:all_potions",
+    "components": {
+        "minecraft:potion_contents": {
+            "potion": "creaking_expanded:creaking"
+        }
+    },
+    "item_use": "When the player dies it will place resin clumps around",
+    "how_to_find": "Brewing Awkward potion with block of resin",
+    "mob_effect_icon": "creaking_expanded:creaking",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

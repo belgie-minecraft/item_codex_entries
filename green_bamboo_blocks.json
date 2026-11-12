@@ -1,0 +1,12 @@
+{
+    "title": "Green Bamboo",
+    "items": "#item_codex:green_bamboo_blocks",
+    "item_use": "Classic woodset made from green bamboo",
+    "how_to_find": "Normal block crafting recipes with planks being crafted from 4 bamboo",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

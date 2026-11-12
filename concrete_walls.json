@@ -1,0 +1,12 @@
+{
+    "title": "Concrete Walls",
+    "items": "#item_codex:concrete_walls",
+    "item_use": "wall blocks that function like all other wall blocks in the game",
+    "how_to_find": "Normal wall crafting recipes but with concrete instead, can also be crafted in stonecutters",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

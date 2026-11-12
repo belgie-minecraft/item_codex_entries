@@ -1,0 +1,12 @@
+{
+  "items": "bound_wilderness:explorer_armor_trim_smithing_template",
+  "item_use": "Used to trim armor",
+  "how_to_find": "Found in abandoned camp secret chest",
+  "trim_pattern": "bound_wilderness:explorer",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "bound_wilderness"
+    }
+  ]
+}

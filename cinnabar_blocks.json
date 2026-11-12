@@ -1,0 +1,12 @@
+{
+    "title": "Cinnabar Blocks",
+    "items": "#item_codex:cinnabar_blocks",
+    "item_use": "expanded building set made from cinnabar, comes in Cracked Tile, Cracked Brick and Tiles",
+    "how_to_find": "Normal block crafting recipes but with cinnabar resources instead, can also be crafted in stonecutters",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chaoscubedplus"
+        }
+    ]
+}

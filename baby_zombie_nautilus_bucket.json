@@ -1,0 +1,11 @@
+{
+    "items": "mini_madness:baby_zombie_nautilus_bucket",
+    "item_use": "Transport for baby zombie nautilus",
+    "how_to_find": "Click a water bucket on a baby zombie nautilus",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mini_madness"
+        }
+    ]
+}

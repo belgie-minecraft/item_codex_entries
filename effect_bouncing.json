@@ -1,0 +1,18 @@
+{
+    "title": "Bouncing Effect",
+    "items": "#item_codex:all_potions",
+    "components": {
+        "minecraft:potion_contents": {
+            "potion": "chaoscubedplus:bounce"
+        }
+    },
+    "item_use": "Makes the player have less air drag, friction and bounce like sulfur cubes",
+    "how_to_find": "Brewing Awkward potion with potent sulfur",
+    "mob_effect_icon": "chaoscubedplus:bouncing",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chaoscubedplus"
+        }
+    ]
+}

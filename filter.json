@@ -1,0 +1,11 @@
+{
+    "items": "copper_age_plus:filter",
+    "item_use": "can have items clicked on them to set a filter, if it has a filter item they will then function like hoppers but will only allow their filter item in",
+    "how_to_find": "Crafted from 4 iron, 4 amethyst shard and 1 hopper",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

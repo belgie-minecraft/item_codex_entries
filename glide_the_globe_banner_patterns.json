@@ -1,0 +1,12 @@
+{
+    "title": "Glide the Globe Banner Patterns",
+    "items": "#item_codex:glide_the_globe_banner_patterns",
+    "item_use": "Banner pattern, can be placed on banners or shields",
+    "how_to_find": "Crafted - Cross: Paper + Map - Exclamation: Paper + Compass - Home: Paper + Bed",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chase_the_skies_plus"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "items": "chaoscubedplus:sulfur_crystal",
+    "item_use": "Used to craft gunpowder with 1 bonemeal, 1 flint and 1 coal - can also be used to turn farmland into sulfur farmland - can also craft sulfur torches or decorative crystal like block",
+    "how_to_find": "Has a very rare chance to place on near by blocks when potent sulfur is producing noxious gas",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chaoscubedplus"
+        }
+    ]
+}

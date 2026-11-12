@@ -1,0 +1,11 @@
+{
+    "items": "creaking_expanded:dried_resin_clump",
+    "item_use": "crafting resource for dried resin building blocks",
+    "how_to_find": "Breaking creaking hearts that have not got a creaking spawned",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

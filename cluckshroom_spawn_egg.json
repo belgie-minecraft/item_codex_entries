@@ -1,0 +1,19 @@
+{
+    "title": "Cluckshroom",
+    "items": "ambient_expanded:cluckshroom_spawn_egg",
+    "item_use": "Passive mob that lays eggs",
+    "how_to_find": "Spawns in mushroom fields",
+    "entity_placement": {
+        "scale": 30,
+        "y": {
+            "positive_value": false,
+            "position": 0
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

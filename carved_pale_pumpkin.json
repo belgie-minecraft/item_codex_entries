@@ -1,0 +1,11 @@
+{
+    "items": "#item_codex:carved_pale_pumpkins",
+    "item_use": "decorative pumpkin, can be crafted into jack o'lantern variants and when worn it will reduce illager visibility",
+    "how_to_find": "Shearing a pale pumpkin and crafting torches with a carved pale pumpkin",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "items": "chase_the_skies_plus:tear_blossoms",
+    "item_use": "Decorative flower that can be placed up to 4 in 1 block",
+    "how_to_find": "Spawns in soul sand valleys",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chase_the_skies_plus"
+        }
+    ]
+}

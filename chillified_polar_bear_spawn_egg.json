@@ -1,0 +1,19 @@
+{
+    "title": "Chillified Polar Bear",
+    "items": "mounts_of_mayhem_plus:chillifed_polar_bear_spawn_egg",
+    "item_use": "can be ridden by 2 players but can also have mobs riding them by leading a mob and then crouch clicking on the polar bear with the lead",
+    "how_to_find": "Spawns in ice spikes or frozen ocean biomes",
+    "entity_placement": {
+        "scale": 25,
+        "y": {
+            "positive_value": false,
+            "position": 15
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mounts_of_mayhem_plus"
+        }
+    ]
+}

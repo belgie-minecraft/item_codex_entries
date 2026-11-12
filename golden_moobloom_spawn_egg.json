@@ -1,0 +1,24 @@
+{
+    "title": "Golden Moobloom",
+    "items": "mini_madness:golden_moobloom_spawn_egg",
+    "item_use": "comes in 15+ types for most small flowers, can be sheared to get flowers (flowers depend on the type), some variants can also be bonemealed and will randomly place their flower type on the ground while walking",
+    "how_to_find": "Spawns in flower forests, meadows & sunflower plains. There are also some rare variants that can only be gotten from breeding 2 in certain biomes",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:and",
+            "values": [
+                {
+                    "type": "neoforge:mod_loaded",
+                    "modid": "mini_madness"
+                },
+                {
+                    "type": "neoforge:not",
+                    "value": {
+                        "type": "neoforge:mod_loaded",
+                        "modid": "moobloom"
+                    }
+                }
+            ]
+        }
+    ]
+}

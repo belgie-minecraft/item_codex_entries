@@ -1,0 +1,11 @@
+{
+  "items": "trailsandtalesplus:glowing_torchflower",
+  "item_use": "Decorative flower that emits a light level",
+  "how_to_find": "Sniffers dig up the seeds that can grow into them",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "trailsandtalesplus"
+    }
+  ]
+}

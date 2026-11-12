@@ -1,0 +1,19 @@
+{
+    "title": "Deer",
+    "items": "ambient_expanded:deer_spawn_egg",
+    "item_use": "Passive mob that runs away from hostile mobs that are near",
+    "how_to_find": "Spawns in snowy plains",
+    "entity_placement": {
+        "scale": 23,
+        "y": {
+            "positive_value": false,
+            "position": 12
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

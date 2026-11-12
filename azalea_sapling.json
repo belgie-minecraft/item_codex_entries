@@ -1,0 +1,11 @@
+{
+    "items": "ambient_expanded:azalea_sapling",
+    "item_use": "Grows a azalea tree",
+    "how_to_find": "Spawns in lush caves or from bonemealing moss",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

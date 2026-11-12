@@ -1,0 +1,12 @@
+{
+    "title": "Amethyst Equipment",
+    "items": "#item_codex:amethyst_equipment",
+    "item_use": "Equipment tier in between iron and diamond but will reduce magic like damages (example: guardian beam, warden sonic boom)",
+    "how_to_find": "Crafted like other Equipment items but with amethyst shards",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

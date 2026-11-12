@@ -1,0 +1,11 @@
+{
+    "items": "mini_madness:golden_pitcher_plant",
+    "item_use": "Can be clicked on mobs to make them silent, can be clicked a second time to reverse",
+    "how_to_find": "Crafted from 1 pitcher plant and 8 gold nuggets",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mini_madness"
+        }
+    ]
+}

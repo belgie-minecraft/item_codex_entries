@@ -1,0 +1,11 @@
+{
+    "items": "#item_codex:creeping_vines",
+    "item_use": "Can be placed on the top or under blocks and can be placed up to 25 blocks tall by clicking the base",
+    "how_to_find": "Crafted from 6 string and either 3 hanging moss or pale hanging moss",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

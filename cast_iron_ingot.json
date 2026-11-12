@@ -1,0 +1,11 @@
+{
+    "items": "copper_age_plus:cast_iron_ingot",
+    "item_use": "Used within cast iron block recipes",
+    "how_to_find": "Smelting iron ingots",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "items": "ambient_expanded:fallen_leaves",
+    "item_use": "Decorative flower that can be placed up to 4 in 1 block",
+    "how_to_find": "Crafted from any leaves but can also be found in birch forest biomes",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

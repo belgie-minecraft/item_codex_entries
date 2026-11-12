@@ -1,0 +1,15 @@
+{
+    "title": "Bamboo Glaive",
+    "items": "#item_codex:glaives",
+    "item_use": "A new weapon that can stab enemies within range and can be tipped with potions",
+    "how_to_find": "Crafted 2 bamboo & 1 flint | Tipped versions are crafted with 1 glaive & any lingering potion",
+    "recipes": [
+        "mounts_of_mayhem_plus:bamboo_glaive"
+    ],
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mounts_of_mayhem_plus"
+        }
+    ]
+}

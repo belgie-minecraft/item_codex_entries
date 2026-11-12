@@ -1,0 +1,12 @@
+{
+    "title": "Amethyst Blocks",
+    "items": "#item_codex:amethyst_blocks",
+    "item_use": "decorative building set made from amethyst, comes in Chiseled, Polished, Bricks and Pillars",
+    "how_to_find": "Normal block crafting recipes but with amethyst resources instead, can also be crafted in stonecutters",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "Noxious Poison Effect",
+    "items": "#item_codex:empty_potions",
+    "item_use": "Slowly drains players health and also reduces their healing efficiency",
+    "how_to_find": "Can not be brewed, players can get the effect by being near sulfur fire in sulfur caves or flint and steel on sulfur blocks",
+    "mob_effect_icon": "chaoscubedplus:noxious_poison",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chaoscubedplus"
+        }
+    ]
+}

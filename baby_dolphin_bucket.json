@@ -1,0 +1,11 @@
+{
+    "items": "mini_madness:baby_dolphin_bucket",
+    "item_use": "Transport for baby dolphins",
+    "how_to_find": "Click a water bucket on a baby dolphin",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mini_madness"
+        }
+    ]
+}

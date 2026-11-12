@@ -1,0 +1,11 @@
+{
+    "items": "chaoscubedplus:cinnabar_spike",
+    "item_use": "A spike block that works just like sulfur spikes",
+    "how_to_find": "Spawns in sulfur caves",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chaoscubedplus"
+        }
+    ]
+}

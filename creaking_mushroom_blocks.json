@@ -1,0 +1,11 @@
+{
+    "items": "#item_codex:creaking_mushroom_blocks",
+    "item_use": "decorative mushroom blocks",
+    "how_to_find": "Growing eyeshrooms",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

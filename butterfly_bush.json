@@ -1,0 +1,11 @@
+{
+    "items": "ambient_expanded:butterfly_bush",
+    "item_use": "Decorative flower that will play ambient butterfly particles",
+    "how_to_find": "Spawns in forest biomes",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

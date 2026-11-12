@@ -1,0 +1,18 @@
+{
+    "title": "Foggy Vision Effect",
+    "items": "#item_codex:all_potions",
+    "components": {
+        "minecraft:potion_contents": {
+            "potion": "creaking_expanded:foggy"
+        }
+    },
+    "item_use": "Reduces the players vision with a gray fog",
+    "how_to_find": "Granted from night spores placed on the under side of blocks",
+    "mob_effect_icon": "creaking_expanded:foggy",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "Garden Spider",
+    "items": "creaking_expanded:garden_spider_spawn_egg",
+    "item_use": "Attacks players with a melee attack when its dark enough but also won't attack if a creaking is within a radius",
+    "how_to_find": "Spawns at night in the pale garden",
+    "entity_placement": {
+        "scale": 25,
+        "y": {
+            "positive_value": false,
+            "position": 15
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

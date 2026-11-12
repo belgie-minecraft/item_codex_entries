@@ -1,0 +1,11 @@
+{
+    "items": "copper_age_plus:copper_dust",
+    "item_use": "clicking on fire to make copper fire, copper fire makes copper blocks above oxidize quicker",
+    "how_to_find": "Brushing oxidized copper blocks",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

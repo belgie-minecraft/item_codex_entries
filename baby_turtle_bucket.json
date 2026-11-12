@@ -1,0 +1,11 @@
+{
+    "items": "mini_madness:baby_turtle_bucket",
+    "item_use": "Transport for baby turtles",
+    "how_to_find": "Click a water bucket on a baby turtle",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mini_madness"
+        }
+    ]
+}

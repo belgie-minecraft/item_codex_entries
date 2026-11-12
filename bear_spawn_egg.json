@@ -1,0 +1,19 @@
+{
+    "title": "Bear",
+    "items": "bound_wilderness:bear_spawn_egg",
+    "item_use": "Neutral mob that will find water and fish",
+    "how_to_find": "Spawns in forest biomes",
+    "entity_placement": {
+        "scale": 30,
+        "y": {
+            "positive_value": false,
+            "position": 10
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

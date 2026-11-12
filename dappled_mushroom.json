@@ -1,0 +1,11 @@
+{
+    "items": "bound_wilderness:dappled_mushroom",
+    "item_use": "Decorative mushroom",
+    "how_to_find": "Spawns in dappled forests",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

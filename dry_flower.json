@@ -1,0 +1,11 @@
+{
+    "items": "ambient_expanded:dry_flower",
+    "item_use": "Decorative flower that will play falling particles tinted the same colour as the block below",
+    "how_to_find": "Spawns in desert biomes",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "items": "chase_the_skies_plus:gale_bucket",
+    "item_use": "Transport for gales",
+    "how_to_find": "Click a bucket on a gale",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chase_the_skies_plus"
+        }
+    ]
+}

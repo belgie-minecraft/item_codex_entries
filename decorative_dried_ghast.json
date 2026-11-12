@@ -1,0 +1,11 @@
+{
+    "items": "chase_the_skies_plus:decorative_dried_ghast",
+    "item_use": "Dried ghast block that will not hatch into a entity, can be clicked with a water bottle to change the hydration amount and can be reversed with a sponge",
+    "how_to_find": "Crafted with 8 ghast tears and 1 bone block",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chase_the_skies_plus"
+        }
+    ]
+}

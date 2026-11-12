@@ -1,0 +1,12 @@
+{
+    "title": "Dried Resin Blocks",
+    "items": "#item_codex:dried_resin",
+    "item_use": "decorative building set made from dried resin, comes in Chiseled and Bricks",
+    "how_to_find": "Normal block crafting recipes but with dried resin clumps instead",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

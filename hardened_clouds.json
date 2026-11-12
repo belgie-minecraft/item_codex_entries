@@ -1,0 +1,12 @@
+{
+    "title": "Hardened Clouds",
+    "items": "#item_codex:hardened_clouds",
+    "item_use": "Decorative block",
+    "how_to_find": "Placing cloud blocks near water",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chase_the_skies_plus"
+        }
+    ]
+}

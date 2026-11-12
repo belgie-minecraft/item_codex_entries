@@ -1,0 +1,11 @@
+{
+  "items": "ambient_expanded:dead_leaves",
+  "item_use": "Decorative leaves block that entities can walk in",
+  "how_to_find": "Crafted from 9 leaf litter",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ambient_expanded"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Azalea",
+    "items": "#item_codex:azalea_blocks",
+    "item_use": "Classic woodset made from azalea",
+    "how_to_find": "Normal block crafting recipes with logs being found from azalea trees",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "items": "copper_age_plus:cast_iron_nugget",
+    "item_use": "Used within cast iron block recipes",
+    "how_to_find": "Crafted from 1 cast iron ingot",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

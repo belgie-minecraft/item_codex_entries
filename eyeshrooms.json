@@ -1,0 +1,11 @@
+{
+    "items": "#item_codex:eyeshrooms",
+    "item_use": "Decorative mushroom that will open at night and close at day",
+    "how_to_find": "Spawns in the pale garden biome",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

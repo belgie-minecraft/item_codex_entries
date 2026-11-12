@@ -1,0 +1,11 @@
+{
+    "items": "creaking_expanded:dried_resin_brick",
+    "item_use": "crafting resource for dried resin building blocks",
+    "how_to_find": "Smelting dried resin clumps",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

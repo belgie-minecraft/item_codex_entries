@@ -1,0 +1,19 @@
+{
+    "title": "Chilled",
+    "items": "mounts_of_mayhem_plus:chilled_spawn_egg",
+    "item_use": "attacks with a melee attack making the player freeze, this can be avoided by wearing leather armor",
+    "how_to_find": "Spawns in ice spikes, snowy plains or riding chillified polar bears",
+    "entity_placement": {
+        "scale": 20,
+        "y": {
+            "positive_value": false,
+            "position": 20
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mounts_of_mayhem_plus"
+        }
+    ]
+}

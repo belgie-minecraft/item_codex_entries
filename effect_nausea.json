@@ -1,0 +1,18 @@
+{
+    "title": "Nausea Effect",
+    "items": "#item_codex:all_potions",
+    "components": {
+        "minecraft:potion_contents": {
+            "potion": "chaoscubedplus:nausea"
+        }
+    },
+    "item_use": "Makes the players vision spin",
+    "how_to_find": "Brewing Night Vision potion with potent sulfur",
+    "mob_effect_icon": "minecraft:nausea",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chaoscubedplus"
+        }
+    ]
+}

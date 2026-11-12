@@ -1,0 +1,13 @@
+{
+    "title": "Lava Vision Effect",
+    "items": "#item_codex:empty_potions",
+    "item_use": "When in lava grants better vision",
+    "how_to_find": "Granted when riding a Wither Skeleton Horse",
+    "mob_effect_icon": "mounts_of_mayhem_plus:lava_vision",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mounts_of_mayhem_plus"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "items": "creaking_expanded:creak_armor_trim_smithing_template",
+    "item_use": "Used to trim armor",
+    "how_to_find": "Feeding ancient sprites",
+    "trim_pattern": "creaking_expanded:creak",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}

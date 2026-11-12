@@ -1,0 +1,12 @@
+{
+    "title": "Big Beak",
+    "items": "mounts_of_mayhem_plus:big_beak_spawn_egg",
+    "item_use": "can be ridden and will glide when in the air",
+    "how_to_find": "Spawns from big beak eggs found in jungle temples",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mounts_of_mayhem_plus"
+        }
+    ]
+}

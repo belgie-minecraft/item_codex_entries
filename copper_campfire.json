@@ -1,0 +1,11 @@
+{
+    "items": "copper_age_plus:copper_campfire",
+    "item_use": "functions like a normal campfire but instead of cooking food it can smelt ores",
+    "how_to_find": "Crafted from 3 logs, 3 sticks and 1 raw copper",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

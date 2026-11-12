@@ -1,0 +1,11 @@
+{
+    "items": "mini_madness:baby_glow_squid_bucket",
+    "item_use": "Transport for baby glow squids",
+    "how_to_find": "Click a water bucket on a baby glow squid",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mini_madness"
+        }
+    ]
+}

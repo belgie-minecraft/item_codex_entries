@@ -1,0 +1,11 @@
+{
+    "items": "chase_the_skies_plus:chiseled_soul_bricks",
+    "item_use": "Can be lit with torches, each torch will light the eyes with the torches flame colour. Can also boost players speed with the soul speed enchantment",
+    "how_to_find": "Crafted from 2 soul brick slabs",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chase_the_skies_plus"
+        }
+    ]
+}

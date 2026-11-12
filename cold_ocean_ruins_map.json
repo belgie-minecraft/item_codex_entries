@@ -1,0 +1,11 @@
+{
+    "items": "bound_wilderness:cold_ocean_ruins_map",
+    "item_use": "Map that leads to Cold ocean ruins",
+    "how_to_find": "Found in abandoned camp secret chest",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

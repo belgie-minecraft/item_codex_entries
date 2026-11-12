@@ -1,0 +1,12 @@
+{
+    "title": "Copper Buttons",
+    "items": "#item_codex:copper_buttons",
+    "item_use": "Provides redstone power when pressed and will stay pressed for a short time, If you have enabled the copper duration gamerule they will stay pressed longer the more oxidized they are",
+    "how_to_find": "Crafted from cut copper in a crafting table",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

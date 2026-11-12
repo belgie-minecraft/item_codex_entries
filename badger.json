@@ -1,0 +1,19 @@
+{
+    "title": "Badger",
+    "items": "ambient_expanded:badger_spawn_egg",
+    "item_use": "can dig up items",
+    "how_to_find": "Spawns in forest biomes",
+    "entity_placement": {
+        "scale": 30,
+        "y": {
+            "positive_value": false,
+            "position": 6
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

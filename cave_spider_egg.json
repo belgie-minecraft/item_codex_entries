@@ -1,0 +1,11 @@
+{
+    "items": "mini_madness:cave_spider_egg",
+    "item_use": "Decorative egg that can be placed under or on top of blocks, can also hatch into a baby cave spider if placed in 0 light level",
+    "how_to_find": "Has a chance to drop from killing adult cave spiders",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mini_madness"
+        }
+    ]
+}

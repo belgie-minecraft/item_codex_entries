@@ -1,0 +1,19 @@
+{
+    "title": "Cloaked",
+    "items": "creaking_expanded:cloaked_spawn_egg",
+    "item_use": "Attacks players with a ranged attack granting foggy vision on hit but also won't attack if a creaking is within a radius",
+    "how_to_find": "Spawns at night in the pale garden",
+    "entity_placement": {
+        "scale": 20,
+        "y": {
+            "positive_value": false,
+            "position": 15
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "creaking_expanded"
+        }
+    ]
+}
