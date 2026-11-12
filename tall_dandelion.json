@@ -1,0 +1,11 @@
+{
+    "items": "ambient_expanded:tall_dandelion",
+    "item_use": "Decorative flower that will play ambient pollen particles",
+    "how_to_find": "Spawns in birch forest biomes",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

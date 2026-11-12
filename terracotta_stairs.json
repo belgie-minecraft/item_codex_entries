@@ -1,0 +1,12 @@
+{
+    "title": "Terracotta Stairs",
+    "items": "#item_codex:terracotta_stairs",
+    "item_use": "stair blocks that function like all other stair blocks in the game",
+    "how_to_find": "Normal stair crafting recipes but with terracotta instead, can also be crafted in stonecutters",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

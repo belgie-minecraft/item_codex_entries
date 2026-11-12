@@ -1,0 +1,11 @@
+{
+    "items": "#item_codex:turkey_foods",
+    "item_use": "Placeable food block that has 4 slices",
+    "how_to_find": "Killing turkey mobs that are found in dappled forests",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

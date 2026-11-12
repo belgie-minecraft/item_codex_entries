@@ -1,0 +1,11 @@
+{
+    "items": "chase_the_skies_plus:waypoint_totem",
+    "item_use": "places a entity that creates a locator on all players locator bar, the locator colour / icon can be changed with dye or banner patterns",
+    "how_to_find": "Crafted with 1 lodestone, 1 stone and 3 iron ingots",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "chase_the_skies_plus"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "Tuff Golem",
+    "items": "copper_age_plus:tuff_golem_spawn_egg",
+    "item_use": "can be given a carpet to add a cape, if they have a carpet they can pick up items on the ground and walk around displaying them. They will also go back to their spawn block at night and have a chance to turn into a statue",
+    "how_to_find": "Spawns from placing a tuff block with a carved pumpkin on top",
+    "entity_placement": {
+        "scale": 40,
+        "y": {
+            "positive_value": false,
+            "position": 16
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

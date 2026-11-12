@@ -1,0 +1,13 @@
+{
+  "title": "Archeologist",
+  "items": "minecraft:suspicious_sand",
+  "item_use": "Villager Workstation",
+  "how_to_find": "Items you find in trail ruins, Sniffer eggs, Sniffer Flowers, Maps to structures with suspicious blocks, Sherds and Armor trims",
+  "profession": "movillagers:archeologist",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "movillagers"
+    }
+  ]
+}

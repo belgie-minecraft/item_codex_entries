@@ -1,0 +1,19 @@
+{
+    "title": "Turkey",
+    "items": "bound_wilderness:turkey_spawn_egg",
+    "item_use": "Neutral mob that you can kill for a new placeable food block",
+    "how_to_find": "Spawns in dappled forests",
+    "entity_placement": {
+        "scale": 30,
+        "y": {
+            "positive_value": false,
+            "position": 5
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

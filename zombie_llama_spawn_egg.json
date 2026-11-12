@@ -1,0 +1,12 @@
+{
+    "title": "Zombie Llama",
+    "items": "mounts_of_mayhem_plus:zombie_llama_spawn_egg",
+    "item_use": "can be ridden and decorated with carpet, will burn in day and when a player is ridding if you hold space you can make the llama spit in the direction you are looking",
+    "how_to_find": "Spawns at night in windswept biomes",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mounts_of_mayhem_plus"
+        }
+    ]
+}

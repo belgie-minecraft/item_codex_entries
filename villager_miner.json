@@ -1,0 +1,13 @@
+{
+  "title": "Miner",
+  "items": "minecraft:furnace",
+  "item_use": "Villager Workstation",
+  "how_to_find": "Cave themed items",
+  "profession": "movillagers:miner",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "movillagers"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Terracotta Slabs",
+    "items": "#item_codex:terracotta_slabs",
+    "item_use": "slab blocks that function like all other slab blocks in the game",
+    "how_to_find": "Normal slab crafting recipes but with terracotta instead, can also be crafted in stonecutters",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

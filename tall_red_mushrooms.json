@@ -1,0 +1,11 @@
+{
+    "items": "ambient_expanded:tall_red_mushrooms",
+    "item_use": "Decorative two tall flower",
+    "how_to_find": "Spawns in mushroom fields",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}

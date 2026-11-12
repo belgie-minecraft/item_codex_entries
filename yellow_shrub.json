@@ -1,0 +1,11 @@
+{
+    "items": "bound_wilderness:yellow_shrub",
+    "item_use": "Decorative flower",
+    "how_to_find": "Spawns in old growth birch, Dappled forest or bonemeal to spread in adjacent blocks",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "bound_wilderness"
+        }
+    ]
+}

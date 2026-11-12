@@ -1,0 +1,11 @@
+{
+    "items": "trailsandtalesplus:white_cherry_sapling",
+    "item_use": "Grows a white cherry tree",
+    "how_to_find": "Drops from white cherry leaves in cherry grove biomes",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "trailsandtalesplus"
+        }
+    ]
+}

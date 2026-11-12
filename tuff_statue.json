@@ -1,0 +1,12 @@
+{
+    "title": "Tuff Statues",
+    "items": "#item_codex:tuff_golem_statues",
+    "item_use": "can be given a carpet to add a cape, They will hold and render items like a item frame, you can crouch click them to change how the item is displayed",
+    "how_to_find": "Tuff golem entities will turn into a statue when at their spawn block at night and the block below is a stone type block",
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "copper_age_plus"
+        }
+    ]
+}

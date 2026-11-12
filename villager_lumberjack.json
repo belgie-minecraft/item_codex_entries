@@ -1,0 +1,13 @@
+{
+  "title": "Lumberjack",
+  "items": "minecraft:crafting_table",
+  "item_use": "Villager Workstation",
+  "how_to_find": "Wood themed items",
+  "profession": "movillagers:lumber_jack",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "movillagers"
+    }
+  ]
+}

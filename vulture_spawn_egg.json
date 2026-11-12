@@ -1,0 +1,19 @@
+{
+    "title": "Vulture",
+    "items": "ambient_expanded:vulture_spawn_egg",
+    "item_use": "Passive mob that land on cactus and will attack hostile mobs",
+    "how_to_find": "Spawns in badlands biomes",
+    "entity_placement": {
+        "scale": 40,
+        "y": {
+            "positive_value": false,
+            "position": 15
+        }
+    },
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ambient_expanded"
+        }
+    ]
+}
